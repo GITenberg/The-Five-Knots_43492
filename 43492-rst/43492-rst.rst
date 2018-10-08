@@ -4,6 +4,8 @@
    :PG.Id: 43492
    :PG.Title: The Five Knots
    :PG.Released: 2013-08-17
+   :PG.Reposted: 2014-09-26 corrections applied
+   :PG.Reposted: 2014-10-09 corrections applied
    :PG.Rights: Public Domain
    :PG.Producer: Al Haines
    :DC.Creator: Fred \M. White
@@ -129,7 +131,7 @@ XX  `The Waterfall`_
 XXI  `A Double Foe`_
 XXII  `From East to West`_
 XXIII  `An Expected Trouble`_
-XXIV The Long Dark Hour`_
+XXIV  `The Long Dark Hour`_
 XXV  `The Diamond Moth Again`_
 XXVI  `Dr. Jansen`_
 XXVII  `No Foe of Hers`_
@@ -583,7 +585,7 @@ girl's cheeks, she showed no sign of disapproval
 or anger.  There was something in her eyes which
 was not displeasing to Wilfrid.
 
-"I am afraid we are wasting rime," she said.
+"I am afraid we are wasting time," she said.
 "My uncle has had a fall and cut his hand badly
 with some glass.  He is resting in the conservatory,
 and I had better take you to him."
@@ -965,7 +967,7 @@ to discuss this matter when there is so much to be
 done!  I have friends coming to dinner, curse it,
 and more are expected later in the evening.  I
 must leave this matter to you and you must do
-the test you can.  Prowl about the place, Cotter.
+the best you can.  Prowl about the place, Cotter.
 Keep your eyes open.  Pry into dark corners.  See
 that all the windows are closed.  Perhaps
 you might also explain something of this to
@@ -1276,7 +1278,7 @@ them.  He saw one reach out and gather a
 handful of sticks together; then a match was applied
 and the whole mass burst into a clear, steady
 and smokeless flame.  The blaze hovered over
-the top of the sucks much as the flame of a spirit
+the top of the sticks much as the flame of a spirit
 lamp might have done.  With Wilfrid's knowledge
 of camp fires he was sure that a casual handful
 of sticks would never have given so clear and
@@ -1711,7 +1713,7 @@ together.  Positively I blush for myself.  And
 yet——"
 
 The girl rose with a sigh, conscious that she
-was neglecting her dudes.  She had come to her
+was neglecting her duties.  She had come to her
 room without a thought for her maid who might
 be requiring attention.  She stole across the
 corridor to the room where Annette lay.  The
@@ -3694,7 +3696,7 @@ gathered.  A long stream of carriages was filing
 slowly up to the portico and an equally long
 stream of well-dressed people was pushing into
 the vestibule.  It was a slow process.  Wilfrid
-allowed himself to be carried along with the ride
+allowed himself to be carried along with the tide
 until the grand staircase was reached.  It was
 up this staircase that the guests proceeded, a
 temporary entrance being made for the spectators
@@ -3867,7 +3869,7 @@ connected with the theatre, and they will help
 me if they can.  Ah, there is Franklin, the very
 man I want to see.  Come along."
 
-Scott dragged his companion eagerly up the
+Swan dragged his companion eagerly up the
 stairs and laid his hand on the shoulder of a
 florid man in front of him.  As the other man
 turned his face, there was no occasion to ask his
@@ -5050,7 +5052,7 @@ telling me that he had been pretty well all
 over the world in his youth, and now I guessed
 what he was doing in that out-of-way spot.  I
 knew he was there with sinister designs upon my
-friendly host.  I know he must be at the head of
+friendly host.  I knew he must be at the head of
 the faction of natives who were bearing down upon
 the devoted city."
 
@@ -5458,7 +5460,7 @@ I am rather glad of it for one thing.  They would
 not be able to resist the opium, and when we do
 catch up with them they will be like children in
 our hands.  We are not going to have our walk
-for nothing.'
+for nothing."
 
 "I don't mind as long as we get outside this
 place," Wilfrid said.  "It seems impossible that
@@ -6015,7 +6017,7 @@ if lately the whole world had gone astray, as if all
 happiness had ceased to be.  For many months
 past she had felt the loss of Wilfrid Mercer;
 indeed, she had missed him even more than she
-eared to acknowledge to herself.  And yet, no
+cared to acknowledge to herself.  And yet, no
 sooner had he crossed her path again than all this
 trouble had come back with him.
 
@@ -10866,7 +10868,7 @@ appeared to be Malay sailors or coolies and that
 was as far as the official theory could go.  On
 the other hand, some one might come forward
 and claim Jansen for a relation, but Uzali had
-not much fear of that Jansen's landlord was
+not much fear of that.  Jansen's landlord was
 not the kind of man who studied the papers.
 It was long odds that he would never know of
 the tragedy at Maldon Grange and would
